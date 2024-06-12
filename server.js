@@ -49,7 +49,6 @@ app.use("/logout", require("./routes/logout"));
 
 app.use(verifyJWT);
 app.use("/employees", require("./routes/api/employees"));
-
 //default /all
 app.all("*", (req, res) => {
   res.status(404);
@@ -62,9 +61,11 @@ app.all("*", (req, res) => {
     res.type("txt").send("404 Not Found");
   }
 });
+
 app.use(errorHandler);
 
 mongoose.connection.once("open", () => {
   console.log("Connected to MongoDB");
+  console.log(mongoose.connection.db.databaseName);
   app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 });
