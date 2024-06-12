@@ -1,14 +1,29 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+:root {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    --text-primary: #b6b6b6;
+    --text-secondary: #ececec;
+    --text-third: #ff7eee;
+    --bg-primary: #23232e;
+    --bg-secondary: #141418;
+    --bg-third: #20202abc;
+    --bg-user-input: #353542e0;
+    --transition-speed: 600ms;
 }
 
 body {
-    font-size: 36px;
-    min-height: 100vh;
-    color: #fff;
-    background-color: #000;
-    display: grid;
-    place-content: center;
+    color: black;
+    background-color: var(--bg-primary);
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.footer {
+    background-color: var(--bg-secondary);
+    color: var(--text-secondary);
+    padding: 20px;
+    text-align: center;
+    width: 100%;
 }
