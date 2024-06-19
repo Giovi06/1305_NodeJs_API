@@ -65,14 +65,14 @@ Das Projekt wurde wie geplant realisiert, wobei alle User Stories und Arbeitspak
 
 | TC-№ | Datum     | Resultat | Tester  |
 | ---- | --------- | -------- | ------- |
-| 1.1  | 22.09.22  | OK       | Giovanni|
-| 2.1  | 22.09.22  | OK       | Giovanni|
-| 3.1  | 22.09.22  | OK       | Giovanni|
-| 4.1  | 22.09.22  | OK       | Giovanni|
-| 5.1  | 22.09.22  | OK       | Giovanni|
-| 6.1  | 22.09.22  | OK       | Giovanni|
-| 7.1  | 22.09.22  | OK       | Giovanni|
-| 8.1  | 22.09.22  | OK       | Giovanni|
+| 1.1  | 19.06.24  | OK       | Giovanni|
+| 2.1  | 19.06.24  | OK       | Giovanni|
+| 3.1  | 19.06.24  | OK       | Giovanni|
+| 4.1  | 19.06.24  | OK       | Giovanni|
+| 5.1  | 19.06.24  | OK       | Giovanni|
+| 6.1  | 19.06.24  | OK       | Giovanni|
+| 7.1  | 19.06.24  | OK       | Giovanni|
+| 8.1  | 19.06.24  | OK       | Giovanni|
 
 ## Auswertung
 
