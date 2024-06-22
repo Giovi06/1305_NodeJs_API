@@ -65,6 +65,10 @@ Das Projekt wurde wie geplant realisiert, wobei alle User Stories und Arbeitspak
 
 ### 5.2 Testprotokoll
 
+Testumgebung
+- Postman Version 11.2.0
+- MacOs Sonoma
+
 | TC-№ | Datum     | Resultat | Tester  |
 | ---- | --------- | -------- | ------- |
 | 1.1  | 19.06.24  | OK       | Giovanni|
