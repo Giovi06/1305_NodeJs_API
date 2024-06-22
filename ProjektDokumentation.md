@@ -23,6 +23,8 @@ Das Projekt ist eine Webanwendung, die Node.js und Express.js für das Backend s
 
 ### Arbeitspakete
 
+- Projektdokumentation erstellen
+- Planen + Dokumantation
 - Server mit Express.js einrichten.
 - Benutzerregistrierung implementieren.
 - Benutzer-Authentifizierung implementieren.
