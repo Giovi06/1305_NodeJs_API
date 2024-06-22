@@ -34,6 +34,7 @@ Das Projekt ist eine Webanwendung, die Node.js und Express.js für das Backend s
 - Fehlerbehandlung implementieren.
 - 404-Seite für nicht vorhandene Routen implementieren.
 - Datenbankverbindung mit MongoDB implementieren.
+- Portfoliobeitrag schreiben
 
 ## E - Entscheidung
 
